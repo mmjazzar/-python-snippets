@@ -1,4 +1,15 @@
 # -python-snippets
 
-tensorflow.
-saving.
+### Mendatory.
+
+
+### Machine learning
+
+
+### Deep learning
+
+
+### Data analysis
+
+To be updated.
+
